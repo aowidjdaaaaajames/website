@@ -1,0 +1,13 @@
+body {
+  background: yellow;
+  text-align: center;
+}
+
+h1 {
+  font-family: Comic Sans MS;
+}
+
+img {
+  hover: 2px;
+  width: 500px;
+}
